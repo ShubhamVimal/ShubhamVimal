@@ -35,11 +35,11 @@ To land a **Data Analyst** role where I can turn raw data into meaningful insigh
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamVimal&show_icons=true&theme=neon&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=ShubhamVimal&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamVimal&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamVimal&show_icons=true&theme=jolly&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=ShubhamVimal&theme=jolly&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamVimal&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShubhamVimal&limit=5&theme=neon&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ShubhamVimal&limit=5&theme=jolly&combine_all_yearly_contributions=true)
 
 
