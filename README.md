@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Shubham Vimal
+## 👋 Hi, there!
 
 🎯 **Aspiring Data Analyst** | 📊 Currently upskilling through a **Data Analyst Bootcamp**
 
