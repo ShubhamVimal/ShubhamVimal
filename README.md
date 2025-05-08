@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm Shubham Vimal
 
-<!--
-**ShubhamVimal/ShubhamVimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** | 📊 Currently upskilling through a **Data Analyst Bootcamp**
 
-Here are some ideas to get you started:
+### 🚀 What I'm Learning
+- 📈 **Excel** & **Power BI**
+- 🐍 **Python** & 🗃️ **SQL**
+- 📊 **Tableau** & 🧵 **Microsoft Fabric**
+- 🤖 **AI for Data Analytics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Career Goal
+To land a **Data Analyst** role where I can turn raw data into meaningful insights and support data-driven decision making.
+
+### 🔍 Current Focus
+- Building hands-on projects  
+- Strengthening portfolio  
+- Collaborating with the data community
+
+📬 *Let’s connect and grow together in the world of data!*
+
