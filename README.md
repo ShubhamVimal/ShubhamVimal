@@ -1,6 +1,6 @@
 ## 👋 Hi, there!
 
-🎯 **Aspiring Data Analyst** | 📊 Currently upskilling through a **Data Analyst Bootcamp**
+🎯 **Aspiring Data Analyst** | 📊 Currently upskilling through **Codebasics Data Analytics Bootcamp 4.0**
 
 ### 🚀 What I'm Learning
 - 📈 **Excel** & **Power BI**
