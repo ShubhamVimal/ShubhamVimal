@@ -1,5 +1,7 @@
 ## 👋 Hi, there!
 
+![Profile Views](https://komarev.com/ghpvc/?username=ShubhamVimal&style=flat-square&color=brightgreen)
+
 🎯 **Aspiring Data Analyst** | 📊 Currently upskilling through **Codebasics Data Analytics Bootcamp 4.0**
 
 ### 🚀 What I'm Learning
