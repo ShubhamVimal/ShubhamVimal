@@ -20,64 +20,28 @@ To land a **Data Analyst** role where I can turn raw data into meaningful insigh
 
 📬 *Let’s connect and grow together in the world of data!*
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShubhamVimal&theme=juicyfresh)
-
 ## 🌐 Socials
-<p align="left">
-  <a href="https://discord.com/users/shubhamvimal9804" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
-    </picture>
+<p>
+  <a href="https://www.linkedin.com/in/shubhamvimal">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
   </a>
-
-  <a href="https://www.facebook.com/ShubhamVimal0618" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
-    </picture>
-  </a>
-
-  <a href="http://www.instagram.com/shubhamvimal30" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-    </picture>
-  </a>
-
-  <a href="https://www.linkedin.com/in/shubhamvimal" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
-  </a>
-
-  <a href="https://www.x.com/Shubham14445588" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-    </picture>
+  <a href="https://discord.com/users/shubhamvimal9804">
+    <img src="https://skillicons.dev/icons?i=discord" height="35" />
   </a>
 </p>
 
 
 ## 💻 Tech Stack
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<p>
+  <img src="https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=BD93F9" />
+  <img src="https://img.shields.io/badge/SQL-282A36?style=for-the-badge&logo=postgresql&logoColor=BD93F9" />
+  <img src="https://img.shields.io/badge/Excel-282A36?style=for-the-badge&logo=microsoft-excel&logoColor=50FA7B" />
+  <img src="https://img.shields.io/badge/Power%20BI-282A36?style=for-the-badge&logo=powerbi&logoColor=F1FA8C" />
 </p>
 
-## 📊 GitHub Stats
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamVimal&show_icons=true&theme=jolly&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=ShubhamVimal&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamVimal&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 📊 GitHub Overview
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShubhamVimal&limit=5&theme=jolly&combine_all_yearly_contributions=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamVimal&theme=dracula" />
+
 
 
