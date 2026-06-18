@@ -1,47 +1,26 @@
-## 👋 Hi, there!
+## 👋 Hey, I'm Shubham — welcome to my corner of data analytics.
 
-![Profile Views](https://komarev.com/ghpvc/?username=ShubhamVimal&style=flat-square&color=brightgreen)
+I'm a Data Analyst interested in exploring data, solving problems, and turning information into insights that support better decision-making.
 
-🎯 **Aspiring Data Analyst** | 📊 Currently upskilling through **Codebasics Data Analytics Bootcamp 4.0**
+This GitHub is a collection of projects, experiments, and lessons learned while working with data. Most of my learning happens by building projects and figuring things out along the way.
 
-### 🚀 What I'm Learning
-- 📈 **Excel** & **Power BI**
-- 🐍 **Python** & 🗃️ **SQL**
-- 📊 **Tableau** & 🧵 **Microsoft Fabric**
-- 🤖 **AI for Data Analytics**
+### 🛠️ Tools & Technologies
 
-### 💼 Career Goal
-To land a **Data Analyst** role where I can turn raw data into meaningful insights and support data-driven decision making.
+`SQL` • `Power BI` • `Excel` • `Python` • `Git`
 
-### 🔍 Current Focus
-- Building hands-on projects  
-- Strengthening portfolio  
-- Collaborating with the data community
+### 🚀 Current Focus
 
-📬 *Let’s connect and grow together in the world of data!*
+* Strengthening analytical and problem-solving skills
+* Building data analytics projects
+* Creating clear and effective dashboards
+* Learning through real-world datasets and case studies
 
-## 🌐 Socials
-<p>
-  <a href="https://www.linkedin.com/in/shubhamvimal">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
-  </a>
-  <a href="https://discord.com/users/shubhamvimal9804">
-    <img src="https://skillicons.dev/icons?i=discord" height="35" />
-  </a>
-</p>
+### 🌐 Connect With Me
 
+<a href="https://www.linkedin.com/in/shubhamvimal">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+</a>
 
-## 💻 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-282A36?style=for-the-badge&logo=python&logoColor=BD93F9" />
-  <img src="https://img.shields.io/badge/SQL-282A36?style=for-the-badge&logo=postgresql&logoColor=BD93F9" />
-  <img src="https://img.shields.io/badge/Excel-282A36?style=for-the-badge&logo=microsoft-excel&logoColor=50FA7B" />
-  <img src="https://img.shields.io/badge/Power%20BI-282A36?style=for-the-badge&logo=powerbi&logoColor=F1FA8C" />
-</p>
+---
 
-### 📊 GitHub Overview
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamVimal&theme=dracula" />
-
-
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamVimal&theme=github_dark" />
